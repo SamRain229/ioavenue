@@ -11,3 +11,5 @@ when "fr"
 else
     puts "Alo"
 end
+
+puts "This is a test"
